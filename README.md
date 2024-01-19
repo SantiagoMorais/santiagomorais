@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil Felipe Santiago Morais 😉
 
  <div>
-   <a href="https://github.com/santiagomorais">
+   <a href="https://github.com/SantiagoMorais">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santiagomorais&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagomorais&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
