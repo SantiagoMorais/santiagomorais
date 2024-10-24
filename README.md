@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil Felipe Santiago Morais 😉
+## Welcome to my profile - Felipe Santiago Morais
 
 <div>
   <a href="https://github.com/santiagomorais">
@@ -16,10 +16,12 @@
  
 <br>
  
-### Me acompanhe nas redes sociais abaixo:
+### Follow me on my social media:
  
 <div> 
   <a href="https://www.instagram.com/felipe.santiago.morais/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-santiago-873025288/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:contatofelipesantiago@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+Fullstack developer on React, Typescript, Node and SQL.
