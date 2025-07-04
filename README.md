@@ -1,5 +1,5 @@
 ## Welcome to my profile - Felipe Santiago Morais
-Fullstack developer on NextJS, NestJS, React, Typescript, Node and SQL.
+Frontend developer on NextJS, React, Typescript, Node, Docker, NestJS and SQL.
 
 <div>
   <a href="https://github.com/santiagomorais">
