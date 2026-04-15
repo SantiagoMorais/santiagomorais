@@ -18,6 +18,7 @@ Currently working as a **Fullstack Developer at Maxtrack**, building scalable ap
 - Node.js / Fastify
 - TypeScript
 - TanStack Query
+- PostgreSQL / Prisma ORM / DBeaver
 
 **Most of my daily contributions are in private repositories (GitLab), which is why my public GitHub activity is lower.**
 
@@ -36,6 +37,9 @@ Currently working as a **Fullstack Developer at Maxtrack**, building scalable ap
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## GitHub Stats
 
