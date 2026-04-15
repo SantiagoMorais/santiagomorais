@@ -1,27 +1,53 @@
-## Welcome to my profile - Felipe Santiago Morais
-Frontend developer on NextJS, React, Typescript, Node, Docker, NestJS and SQL.
+# Felipe Santiago Morais
+![Profile Views](https://komarev.com/ghpvc/?username=santiagomorais&color=blue&style=for-the-badge)
 
-<div>
+Frontend Developer specialized in **Next.js, React and TypeScript**, with experience in building scalable web applications, reusable UI components and full stack solutions using **Node.js, NestJS, Docker and SQL**.
+
+## About me
+
+- Frontend Developer
+- Main stack: Next.js, React, TypeScript
+- Also working with Node.js, NestJS, Docker and SQL
+- Focused on clean code, component architecture and scalable applications
+
+## Current Work
+
+Currently working as a **Fullstack Developer at Maxtrack**, building scalable applications using:
+
+- React / Next.js
+- Node.js / Fastify
+- TypeScript
+- TanStack Query
+
+**Most of my daily contributions are in private repositories (GitLab), which is why my public GitHub activity is lower.**
+
+## Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+## GitHub Stats
+
+<div align="center">
   <a href="https://github.com/santiagomorais">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagomorais&layout=compact&langs_count=6&theme=tokyonight"/>
-</div> 
+    <img src="https://streak-stats.demolab.com?user=santiagomorais&theme=tokyonight&hide_border=true" /> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagomorais&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+</div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png">
-  <img align="center" alt="NodeJS" height="30" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">
-  <img align="center" alt="NestJS" height="30" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/3/37/NestJS-logo-wordmark.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
- 
-<br>
- 
-### Follow me on my social media:
- 
-<div> 
-  <a href="https://www.instagram.com/felipe.santiago.morais/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-santiago-873025288/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:contatofelipesantiago@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+## Connect with me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe.santiago.morais/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-santiago-873025288/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatofelipesantiago@gmail.com)
