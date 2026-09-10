@@ -1,22 +1,21 @@
 # Felipe Santiago Morais
 ![Profile Views](https://komarev.com/ghpvc/?username=santiagomorais&color=blue&style=for-the-badge)
 
-Fullstack Developer with a strong frontend background, specialized in **TypeScript, React and Node.js**, building modern, scalable and well-structured applications — from responsive interfaces to APIs, databases and service integrations.
+Fullstack Developer with a strong frontend background, specialized in **TypeScript, React and Node.js**.
 
 ## About me
 
 - Fullstack Developer with a frontend-first background
-- Main stack: **TypeScript, React, Next.js, Node.js/Fastify**
+- Main stack: **TypeScript, React, Node.js/Fastify**
 - Working with **PostgreSQL and MongoDB** through **Prisma** and **Mongoose**
 - Experience with SQL and NoSQL data modeling, API design/documentation, application architecture and frontend-backend integration
-- Started my dev journey in 2023 as a career transition — HTML/CSS/JS → React/TypeScript → fullstack
-- Focused on clean code, scalable architecture, and understanding the full application lifecycle — not just the interface
+- Started my dev journey in 2023 as a career transition
 
 ## Current Work
 
-Currently working as a **Fullstack Developer at Maxtrack**, building scalable applications using:
+Currently working as a **Fullstack Developer at Maxtrack** using:
 
-- React / Next.js
+- React
 - Node.js / Fastify
 - TypeScript
 - TanStack Query
@@ -26,14 +25,9 @@ Currently working as a **Fullstack Developer at Maxtrack**, building scalable ap
 
 ## Currently Learning
 
-I'm expanding beyond application development to better understand the full lifecycle — from code to cloud:
-
 - **C# and ASP.NET** (college coursework)
 - **CI/CD** practices and automation
 - **Cloud Computing / AWS**, preparing for my first AWS certification
-- **Docker** and reproducible, reliable deployment workflows
-
-Long term, my goal is to grow into a role where I can help shape architecture, quality, and automation across the whole product lifecycle — not just implement features.
 
 ## Tech Stack
 
